@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Search App</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <header>
+        <h1>Movie Search App</h1>
+        <p>Search for movies and discover more information.</p>
+    </header>
+
+    <main>
+        <section class="search-section">
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Enter a movie name..."
+                aria-label="Movie name"
+            >
+            <button id="searchButton">Search</button>
+        </section>
+
+        <p id="message" role="status">Search for a movie to get started.</p>
+
+        <section id="movieResults" class="movie-grid"></section>
+    </main>
+
+    <footer>
+        <p>Movie information provided by OMDb API.</p>
+    </footer>
+
+</body>
+</html>
