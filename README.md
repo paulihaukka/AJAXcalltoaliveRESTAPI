@@ -18,7 +18,7 @@ I did not create a separate wireframe or sketch before starting the project. I j
 
 ## Web links
 
-- **GitHub repository:** 
+- **GitHub repository:** https://github.com/paulihaukka/AJAXcalltoaliveRESTAPI
 
 
 ## About the application
@@ -53,6 +53,8 @@ Users can enter a movie title into the search field. The application retrieves m
 
 
 ## Screenshots
+<img width="1322" height="490" alt="image" src="https://github.com/user-attachments/assets/45ece512-3d2e-4ef6-b790-0f821c78fa5f" />
+<img width="1424" height="885" alt="image" src="https://github.com/user-attachments/assets/e036f3ea-2efc-41cf-ab90-723783e054e9" />
 
 
 
